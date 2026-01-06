@@ -17,5 +17,3 @@ def predict(data: TextInput):
         mood = "NEUTRAL"
 
     return {"mood": mood}
-
-
